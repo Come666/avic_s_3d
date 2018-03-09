@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//install/macosx/Sweet\ Home\ 3D/Contents/Info.plist=UTF-8
+encoding//src/com/eteks/sweethome3d/j3d/HomePieceOfFurniture3D.java=UTF-8
+encoding//src/com/eteks/sweethome3d/j3d/LabelImage3D.java=UTF-8
+encoding//src/com/eteks/sweethome3d/model/HomeApplication.java=UTF-8
+encoding//src/com/eteks/sweethome3d/swing/CaseItemPane.java=UTF-8
+encoding//src/com/eteks/sweethome3d/swing/CasePanel.java=UTF-8
+encoding//src/com/eteks/sweethome3d/swing/HomePane.java=UTF-8
+encoding//src/com/eteks/sweethome3d/swing/LabelPanel.java=UTF-8
+encoding//test/com/eteks/sweethome3d/junit/JMEMain.java=UTF-8
+encoding//test/light3D/LineShape.java=UTF-8
+encoding//test/light3D/LineTest.java=UTF-8
+encoding/<project>=ISO-8859-1

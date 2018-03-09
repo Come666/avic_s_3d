@@ -1,0 +1,24 @@
+JarIndex-Version: 1.0
+
+ui.jar
+apple
+apple/awt
+apple/laf
+com
+com/apple
+com/apple/concurrent
+com/apple/eawt
+com/apple/eawt/event
+com/apple/eio
+com/apple/laf
+com/apple/laf/resources
+com/apple/resources
+com/sun
+com/sun/imageio
+com/sun/imageio/plugins
+com/sun/imageio/plugins/tiff
+sun
+sun/awt
+sun/awt/windows
+sun/font
+

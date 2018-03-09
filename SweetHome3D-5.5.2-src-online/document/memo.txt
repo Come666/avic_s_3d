@@ -1,0 +1,22 @@
+at com.eteks.sweethome3d.MacOSXConfiguration.addWindowMenu(Unknown Source)
+    at com.eteks.sweethome3d.MacOSXConfiguration.access$500(Unknown Source)
+    at com.eteks.sweethome3d.MacOSXConfiguration$2.collectionChanged(Unknown Source)
+    at com.eteks.sweethome3d.model.CollectionChangeSupport.fireCollectionChanged(Unknown Source)
+    at com.eteks.sweethome3d.model.HomeApplication.addHome(Unknown Source)
+    at com.eteks.sweethome3d.SweetHome3D.showDefaultHomeFrame(Unknown Source)
+    at com.eteks.sweethome3d.SweetHome3D.start(Unknown Source)
+    at com.eteks.sweethome3d.SweetHome3D$5.run(Unknown Source)
+
+
+
+关于布局 看 swing.HomePane 这个类就好了
+HomePane 构造函数 一层层的往下看
+里面有很多布局，  JSplitPane, JPopupMenu
+还有对应的Listener的情况
+这个都需要补习一下。
+HomePane 和 HomeView 什么关系
+
+
+3d 模型又指的是什么？
+每个模型怎样转化为object3d？
+object3d又是什么？
